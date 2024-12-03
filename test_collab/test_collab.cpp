@@ -8,6 +8,7 @@ int main()
 
     std::cout << "Privetik, Aleksandr, Aleksey\n";
     std::cout << "Poka";
+    std::cout << "see you later";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
