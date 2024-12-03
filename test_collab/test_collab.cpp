@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Privetik\n";
+    std::cout << "Poka";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
