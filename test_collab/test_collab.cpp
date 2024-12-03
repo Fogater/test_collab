@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Privetik\n";
+
+    std::cout << "Privetik, Aleksandr\n";
     std::cout << "Poka";
 }
 
